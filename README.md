@@ -1,6 +1,6 @@
 # Privacy Policy for Algoals
 
-This privacy policy applies to the Algoals app (the "App") provided by [Algoals].
+This privacy policy applies to the Algoals app (the "App") provided by Algoals.
 
 ## Collection of Personal Information
 
@@ -24,4 +24,4 @@ We reserve the right to make changes to this privacy policy at any time. Any cha
 
 ## Contact Us
 
-If you have any questions or concerns about our privacy policy, please contact us at [ebenladipo@gmail.com].
+If you have any questions or concerns about our privacy policy, please contact us at ebenladipo@gmail.com.
